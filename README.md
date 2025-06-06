@@ -43,5 +43,5 @@ A simple ToDo List web application built with Node.js, Express, EJS templating, 
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ToDoList.git
+git clone https://github.com/shafaq0410/ToDoList.git
 cd ToDoList
