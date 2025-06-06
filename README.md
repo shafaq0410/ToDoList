@@ -49,7 +49,7 @@ A simple ToDo List web application built with Node.js, Express, EJS templating, 
 
 1. Clone the repo
 
-```bash
+bash
 git clone https://github.com/shafaq0410/ToDoList.git
 cd ToDoList
  
@@ -68,7 +68,7 @@ npm start
 Open your browser and navigate to:
 
 arduino
-http://localhost:5000
+http://localhost:5000 
 
 Important Notes
 Ensure your MongoDB Atlas cluster allows connections from your IP address or use 0.0.0.0/0 for testing (be cautious with this setting).
@@ -83,4 +83,4 @@ This project is licensed under the MIT License.
 Author
 Shafaq Ali
 
-Feel free to star ⭐ and contribute to the project!
+⭐ Feel free to star this project and contribute!
